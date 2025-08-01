@@ -48,7 +48,7 @@ function AppSidebar() {
     return (
         <Sidebar>
             <SidebarHeader className={'p-4'}>
-                <h2 className='text-2xl text-violet-600 text-center'>Skill Sphere</h2>
+                <h2 className='text-2xl text-violet-600 text-center'>Skill Sync</h2>
             </SidebarHeader>
             <SidebarContent>
                 <SidebarGroup >
