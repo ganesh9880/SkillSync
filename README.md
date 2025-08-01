@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SkillSync Logo](public/logo.svg)
+
 
 **Transform your learning experience with AI-powered course creation and personalized education**
 
@@ -51,7 +51,7 @@ SkillSync is a modern, AI-powered learning platform that revolutionizes educatio
 ![Course Dashboard](image2.png)
 
 ### Course Creation Interface
-![Course Creation](image3.png)
+![Course Creation](Image3.png)
 
 ### Learning Experience
 ![Learning Experience](image1.png)
